@@ -4,8 +4,8 @@ This project sets up a basic Express server with endpoints to handle requests fo
 
 * Setup
 
-    - Inside the server folder, create an index.js file.
     - Create a folder called server.
+    - Inside the server folder, create an index.js file.
     - Use npm to install Express: npm install express.
     - Require Express at the top of your index.js file.
     - Set up Express to accept JSON object responses.
