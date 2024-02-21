@@ -22,10 +22,10 @@ This project sets up a basic Express server with endpoints to handle requests fo
         - To get weather information, make another appropriate GET request.
 
 # File Structure
-     * index.js
+    * index.html file
     * server/
         index.js: Main file where the Express server is set up.
-
+    * README.MD file 
 # Dependencies
 
     Express: A web application framework for Node.js, used to build our server.
